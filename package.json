@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoyunchen/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoyunchen/practice/issues"
+  },
+  "homepage": "https://github.com/yaoyunchen/practice#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
